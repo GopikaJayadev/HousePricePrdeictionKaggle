@@ -1,4 +1,4 @@
-# HousePricePrdeictionKaggle
+# HousePricePredictionKaggle
 
 The problem is to predict the sales price for each house given a set of features.
 
